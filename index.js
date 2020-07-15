@@ -7,6 +7,6 @@ function fuzzyMatch(drivers, str){
 }
 
 function matchName(drivers, str){
-  console.log(driver, str);
+  console.log(drivers, str);
 
 }
